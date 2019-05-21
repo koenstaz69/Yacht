@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
   <head>
       <!-- PAGE TITLE -->
-      <title>Home - Royal Cars</title>
+      <title>Home - Royal yachts</title>
 
       <!-- META-DATA -->
       <meta http-equiv="content-type" content="text/html; charset=utf-8" >
@@ -22,105 +22,14 @@
 
   </head>
   <body> 
-       <section id="r-customizer" class="r-customizer">
-            <div class="r-selector"> 
-                  <span class="d-block text-center">Color Options</span>
-                  <div class="r-color_section r-color_block">
-                        <ul class="r-color_selector" id="r-color_selector">
-                            <li class="r-color_1" data-attr="color-01"></li>
-                            <li class="r-color_6" data-attr="color-06"></li>
-                            <li class="r-color_2" data-attr="color-02"></li>
-                            <li class="r-color_3" data-attr="color-03"></li>
-                            <li class="r-color_4" data-attr="color-04"></li>
-                            <li class="r-color_5" data-attr="color-05"></li>
-                            <li class="r-color_7" data-attr="color-07"></li>
-                            <li class="r-color_8" data-attr="color-08"></li>
-                        </ul>
-                  </div>  
-            </div>
-            <i id="r-selector_icon" class="fa fa-cog"></i>
-      </section>
+     
       <div class="r-wrapper">
-       <header>
-          <div class="r-header r-header-inner">
-            <div class="r-header-strip">
-              <div class="container">
-                <div class="row clearfix">
-                  <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-xs-12">
-                    <div class="r-logo">
-                      <a href="index.html" class="d-inline-block"><img src="assets/images/logo.png" class="img-fluid d-block" alt=""></a>
-                    </div>
-                    <a href="javaScript:void(0)" class="menu-icon"> <i class="fa fa-bars"></i> </a>
-                  </div>
-                  <div class="col-xl-9 col-lg-9 col-md-9 col-sm-9 col-xs-12">
-                    <div class="r-header-action float-right">
-                      <a href="login-register.html"> <img src="assets/images/icon-lock.png" alt='' /> <span>Login</span></a>
-                      <a href="#" class="r-search"> <img src="assets/images/icon-search.png" alt='' /> <span>Search</span></a>
-
-                      <div class="r-search-wrapper">
-                        <div class="r-search-inner">
-                          <form>
-                              <input type="text" class="r-search-field" placeholder="Search"/>
-                              <button type="submit" class="r-search-btn">
-                                <i class="fa fa-search"></i>
-                              </button>
-                          </form>
-                        </div>
-                      </div> <!-- /r-search-wrapper -->
-                    </div>
-                    <div class="r-nav-section float-right">
-                      <nav>
-                        <ul>
-                          <li class="r-has-child">
-                            <a href="index.html">HOME</a>
-                            <ul class="pl-0 ml-0">
-                              <li><a href="index.html">Home 01</a></li>
-                              <li><a href="index-02.html">Home 02</a></li>
-                              <li><a href="index-03.html">Home 03</a></li>
-                              <li><a href="index-04.html">Home 04</a></li>
-                            </ul>
-                          </li>
-                          <li class="r-has-child">
-                            <a href="about.html">ABOUT US</a>
-                            <ul class="pl-0 ml-0">
-                              <li><a href="faq.html">Faq</a></li>
-                            </ul>
-                          </li>
-                          <li class="r-has-child">
-                            <a href="car-listing.html">VEHICLES</a>
-                            <ul class="pl-0 ml-0">
-                              <li><a href="car-list-map.html">Car List Map</a></li>
-                              <li><a href="car-booking.html">Car Booking</a></li>
-                            </ul>
-                          </li>
-                          <li><a href="gallery.html">GALLERY</a></li>
-                          <li><a href="drivers.html">DRIVERS</a></li>
-                          <li><a href="contact.html">CONTACT US</a></li>
-                        </ul>
-                      </nav>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="r-header-inner-banner">
-              <div class="r-header-in-over">
-                <h1>Our <b>Drivers</b> </h1>
-                <div class="r-breadcrum">
-                  <ul>
-                    <li><a href="#">HOME</a></li>
-                    <li><span>DIVERS</span></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </header> 
+       <?php include 'include/header.php'?>
         <section id="r-contact-part" class="r-contact-part">
           <div class="container clearfix">
             <div class="contact-head">
               <span>OUR OFFICE</span>
-              <h2>Contact <b>Royal Cars</b> for<br> More Information. </h2>
+              <h2>Contact <b>Royal yachts</b> for<br> More Information. </h2>
             </div>
 
             <div class="row clearfix">
@@ -130,7 +39,7 @@
                   <div class="r-contact-img"><img src="assets/images/contact-img01.jpg" class="img-fluid d-block m-auto" alt=""></div>
                   <div class="address address-cnt"><i class="fa fa-map-marker"></i><b>300</b> Pennsylvania EV, USA</div>
                   <div class="call address-cnt"><i class="fa fa-phone"></i><b>+100</b>-1212-2000</div>
-                  <div class="mail address-cnt"><i class="fa fa-envelope"></i>info@royalcars.com</div>
+                  <div class="mail address-cnt"><i class="fa fa-envelope"></i>info@royalyachts.com</div>
                 </div>
               </div>
 
@@ -140,7 +49,7 @@
                   <div class="r-contact-img"><img src="assets/images/contact-img02.jpg" class="img-fluid d-block m-auto" alt=""></div>
                   <div class="address address-cnt"><i class="fa fa-map-marker"></i><b>300</b> Pennsylvania EV, USA</div>
                   <div class="call address-cnt"><i class="fa fa-phone"></i><b>+100</b>-1212-2000</div>
-                  <div class="mail address-cnt"><i class="fa fa-envelope"></i>info@royalcars.com</div>
+                  <div class="mail address-cnt"><i class="fa fa-envelope"></i>info@royalyachts.com</div>
                 </div>
               </div>
             </div>
@@ -178,7 +87,7 @@
                   <div class="r-footer-block">
                     <img src="assets/images/footer-logo.png" class="d-block img-fluid" alt="">
                     <p>
-                      We know the difference is in the details and that’s why our car rental services, in the tourism and business industry, stand out for their quality.
+                      We know the difference is in the details and that’s why our yacht rental services, in the tourism and business industry, stand out for their quality.
                     </p>
                     <form action="#">
                       <div class="r-newsletter">
@@ -218,10 +127,10 @@
                       <h6>OUR INFO</h6>
                       <nav>
                         <ul>
-                          <li><a href="#">About Royal Cars</a></li>
+                          <li><a href="#">About Royal yachts</a></li>
                           <li><a href="#">Our Mission & Strategy</a></li>
                           <li><a href="#">Our Vision</a></li>
-                          <li><a href="#">Royal Cars Advantages</a></li>
+                          <li><a href="#">Royal yachts Advantages</a></li>
                           <li><a href="#">Contact Us</a></li>
                         </ul>
                       </nav>
@@ -231,7 +140,7 @@
                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-xs-12">
                   <div class="r-footer-block">
                     <div class="r-footer-widget r-footer-map">
-                      <a href="#"> <img src="assets/images/icon-footer-map.png" class="icon" alt=''/> RoyalCars on Map</a>
+                      <a href="#"> <img src="assets/images/icon-footer-map.png" class="icon" alt=''/> Royalyachts on Map</a>
                     </div>
                     <div class="r-footer-widget r-footer-nav">
                       <h6>ACCOUNT INFORMATION</h6>
@@ -265,49 +174,7 @@
         </footer>
       </div>
       <div id="r-to-top" class="r-to-top"><i class="fa fa-angle-up"></i></div>
-      <!-- JQUERY:: JQUERY.JS -->
-      <script src="assets/js/jquery.min.js"></script>
-
-      <!-- JQUERY:: BOOTSTRAP.JS -->
-      <script src="assets/js/tether.min.js"></script>
-      <script src="assets/js/bootstrap.min.js"></script>
-
-      <!-- JQUERY:: CUSTOM -->
-      <script src="assets/js/custom.js"></script>
-
-      <script>
-        function sendContact() { 
-           var valid;  
-            valid = validateContact();
-            if(valid) { 
-              jQuery.ajax({
-                url: "contact_mail.php",
-                data:'userName='+$("#userName").val()+'&userEmail='+$("#userEmail").val()+'&subject='+$("#subject").val()+'&content='+$(content).val(),
-                type: "POST",
-                success:function(data){
-                  $("#mail-status").html(data);
-                },
-                error:function (){}
-              }); 
-            }
-        }
-        function validateContact() {
-            var valid = true;  
-            if(!$("#userName").val()) {
-              valid = false;
-            }
-            if(!$("#userEmail").val()) {
-              valid = false;
-            }
-            if(!$("#subject").val()) {
-              valid = false;
-            }
-            if(!$("#content").val()) {
-              valid = false;
-            }
-            return valid;
-          }
-      </script>
+      <?php include'scriptcontact.php' ?>
 
   </body>
 </html>
