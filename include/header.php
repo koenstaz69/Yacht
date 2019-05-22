@@ -47,7 +47,7 @@
             </div>
             <div class="r-slider owl-Yachtousel" id="defaultHomeSlider">
               <div class="r-slider-item">
-                <img src="assets/images/blue-boats-daylight-358326.jpg" class="img-fluid d-block m-auto" alt="">
+                <img src="assets/images/homepag.jpg" class="img-fluid d-block m-auto" alt="">
                 <div class="container">
                   <div class="r-slider-top-content float-left text-left">
                  
