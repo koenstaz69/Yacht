@@ -28,7 +28,7 @@
       
       <div class="r-wrapper">
         
-         <?php include 'header.php'?>
+         <?php include 'include/header.php'?>
         <section id="r-advantages-part" class="r-advantages-part">
           <div class="r-advantage-main-part r-advantage-main-part-white">
             <div class="container clearfix">
@@ -198,8 +198,8 @@
           </div>
         </section>
           
-       <?php include 'footer.php'?> 
+       <?php include 'include/footer.php'?> 
     
-     <?php include 'scripts.php'?>
+     <?php include 'include/scripts.php'?>
   </body>
 </html>
