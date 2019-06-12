@@ -34,10 +34,14 @@
                   <div class="form-group">
                     <label> yacht Brand </label>
                     <select class="form-control">
-                      <option>Any Brands</option>
-                      <option>Any Brands</option>
-                      <option>Any Brands</option>
-                      <option>Any Brands</option>
+                      <option>Sunseeker</option>
+                      <option>Beneteau</option>
+                      <option>Bavaria</option>
+                      <option>Azimut</option>
+                      <option>Dufour</option>
+                      <option>Fairline</option>
+                      <option>Jeanneau</option>
+                      <option>Linssen</option>
                     </select>
                   </div>
                 </div>
@@ -45,10 +49,12 @@
                   <div class="form-group">
                     <label> yacht Type </label>
                     <select class="form-control">
-                      <option>Any Type</option>
-                      <option>Any Type</option>
-                      <option>Any Type</option>
-                      <option>Any Type</option>
+                      <option>Predator</option>
+                      <option>Manhattan</option>
+                      <option>Oceanis</option>
+                      <option>Sun</option>
+                      <option>Sturdy</option>
+                      <option>Dutch</option>
                     </select>
                   </div>
                 </div>
@@ -86,13 +92,14 @@
                       </ul>
                       <ul class="pl-0 mb-0 r-best-vehicle-types">
                         <li><span>All Manufacturer</span></li>
-                        <li><span>Honda</span></li>
-                        <li class="r-best-vehicle-acitve"><span>Mercedes Benz</span></li>
-                        <li><span>Toyota</span></li>
-                        <li><span>Volkswagen</span></li>
-                        <li><span>Audi</span></li>
-                        <li><span>Ferrari</span></li>
-                        <li><span>Chevrolet</span></li>
+                        <li><span>Sunseeker</span></li>
+                        <li class="r-best-vehicle-acitve"><span>Beneteau</span></li>
+                        <li><span>Bavaria</span></li>
+                        <li><span>Azimut</span></li>
+                        <li><span>Dufour</span></li>
+                        <li><span>Fairline</span></li>
+                        <li><span>Jeanneau</span></li>
+                        <li><span>Linssen</span></li>
                       </ul>
                     </div>
                   </div>
@@ -103,21 +110,7 @@
                       <div class="col-lg-6 col-md-12 col-sm-12">
                         <span class="r-filter-text">20 of 50 Search Results</span>
                       </div>
-                      <div class=" col-lg-6 col-md-12 col-sm-12">
-                        <div class="r-car-filter-wrapper">
-                          <span class="r-filter-text"> Show yachts : </span>
-                          <select class="r-show-cars-filter">
-                            <option value="6"> 6 yachts </option>
-                            <option value="10"> 10 yachts </option>
-                            <option value="20"> 20 yachts </option>
-                            <option value="30"> 30 yachts </option>
-                          </select>
-                          <ul class="r-change-view">
-                            <li><a href="javaScript:void(0)"> <i class="fa fa-th-large"></i> </a></li>
-                            <li><a href="javaScript:void(0)"> <i class="fa fa-bars"></i> </a></li>
-                          </ul>
-                        </div>
-                      </div>
+                   
                     </div>
                   </div>
 
@@ -283,18 +276,11 @@
                   <div class="r-filter-pagination-area">
                     <div class="row">
                       <div class="col-md-12 col-sm-12">
-                          <span class="r-filter-text"> Show yachts : </span>
-                          <select class="r-show-cars-filter">
-                            <option value="6"> 6 yachts </option>
-                            <option value="10"> 10 yachts </option>
-                            <option value="20"> 20 yachts </option>
-                            <option value="30"> 30 yachts </option>
-                          </select>
-
+                    
                           <ul class="pagination">
                             <li><a href="#">Prev</a></li>
-                            <li><a href="#">01</a></li>
-                            <li class="active"><span>02</span></li>
+                            <li class="active"><span>01</span></li>
+                            <li><a href="#">02</a></li>
                             <li><a href="#">03</a></li>
                             <li><a href="#">04</a></li>
                             <li><a href="#">...</a></li>
